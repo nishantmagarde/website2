@@ -1,0 +1,227 @@
+body{
+    background-color: #012b41;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+#main-wrapper{
+    width: 926px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+#top-wrapper{
+    width: 926px;
+    float: left;
+}
+
+#banner{
+    width:806px;
+    float:left;
+    background: url("images/Untitled%20design.jpg") top no-repeat;
+    height:150px;
+    color:azure;
+    font-size:40px;
+    padding:45px 0px 0px 120px;
+}
+
+
+#nav{
+    width: 926px;
+    float: left;
+    padding: 0px;
+    height: 40px;
+    background-color: #84abba;
+}
+
+#nav ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    display: inline;
+}
+
+#nav ul li{
+    float: left;
+    padding: 0px;
+    text-align: center;
+    border-right: 1px solid black;
+}
+
+#nav ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 11px 62.5px;
+    color: white;
+}
+
+#nav ul li a:hover{
+    background-color: #004c6d;
+    color:white;   
+}
+
+#mid-wrapper-top{
+    width: 926px;
+    margin: 7px auto;
+    padding: 0px;
+    float: left;
+    
+}
+
+#mid-left-outer{
+    width:620px;
+background-color: white;
+    float: left;
+    height: 500px
+    }
+
+#mid-left-container{
+    width: 610px;
+    padding: 0px 0px 0px 10px;
+    float: left;
+    height: 250px;
+}
+
+#mid-left-container h1{
+    font-family: Arial;
+    font-size: 25px;
+    margin: 5px 0px 0px 10px;
+    border-bottom: 1px solid grey;
+    
+    font-weight:normal;
+}
+
+.yellowish{
+    color: #c79214;
+    font-size: 22px;
+}
+
+#mid-left-container p{
+    font-size: 13.5px;
+    margin-left: 5px;
+}
+
+#mid-left-container ol{
+    list-style-image: url(images/bullet1.png);
+    padding: 0px 0px 0px 15px
+}
+
+#mid-left-container li{
+    margin: 10px;
+    font-size: 13.5px;
+}
+
+#mid-left-container1{
+     width: 610px;
+    padding: 0px 0px 0px 10px;
+    float: left;
+}
+
+#inner-left{
+    margin-top: 10px;
+    width: 300px;
+    float: left;
+}
+
+#inner-right{
+    margin-top: 10px;
+    width: 305px;
+    float: right;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 19px;
+    margin: 5px 0px 0px 10px;
+    font-weight:normal;
+    background: url(images/divider-2.jpg) no-repeat bottom;
+    display: block;
+    padding: 0px 0px 10px 10px;
+    
+}
+
+.yellowis{
+    color: #c79214;
+    font-size: 18px;
+}
+
+#inner-left p{
+    font-size: 13.5px;
+}
+
+#inner-right{
+    font-size: 13.5px;
+}
+
+.read-more{
+    color: #333333;
+}
+
+#mid-right-container{
+    float: right;
+    width: 306px;
+    background-color: #ced6da;
+    height: 300px;  
+}
+
+#mid-right-container ol{
+    list-style-image: url(images/bullet-2.jpg)
+    
+}
+
+#mid-right-container li{
+    padding-bottom: 21px;
+}
+
+#mid-right-container a{
+    text-decoration: none;
+    font-size: 13.5px;
+    color: black;
+}
+
+#mid-right-container a:hover{
+    text-decoration: underline;
+    color: #002b41;
+}
+
+#right-container-down{
+    width:276px; 
+    float:right; 
+    padding:10px 15px;
+    background-color: #054769;
+    height: 180px;
+}
+
+h3{
+    color: aliceblue; 
+    font-size: 22px;
+    font-weight:500;
+    background: url(images/divider-3.jpg) no-repeat bottom;
+    padding: 0px 0px 10px 10px;
+    margin:0px 15px 0px 10px;
+    display: block;
+    
+}
+
+#right-container-down p{
+    font-size: 13.5px;
+    color: aliceblue;
+    margin-left: 10px;
+}
+
+#footer{
+    width:906px; 
+    float:left; 
+    padding:10px; 
+    color:#fff;
+}
+
+#footer h5{
+    color: aliceblue;
+    float: right;
+}
+
+h4{
+    font-weight: 100
+}
